@@ -528,7 +528,7 @@ export default function LandingPage() {
             {[
               { title: "Cómo elegir aretes según la forma de tu rostro", time: "3 min", bg: "from-[#f4ecec] to-[#e2d5c4]", img: "/__mockup/images/blog-aretes-rostro.jpg" },
               { title: "Cómo combinar collar y aretes sin equivocarte", time: "4 min", bg: "from-[#f9f2eb] to-[#eadac5]", img: "/__mockup/images/blog-combinar-collar.jpg" },
-              { title: "Accesorios ideales para looks de oficina", time: "5 min", bg: "from-[#f0ede5] to-[#d6cfb8]", img: null }
+              { title: "Accesorios ideales para looks de oficina", time: "5 min", bg: "from-[#f0ede5] to-[#d6cfb8]", img: "/__mockup/images/blog-oficina.jpg" }
             ].map((blog, idx) => (
               <div key={idx} className="group cursor-pointer">
                 <div className={`w-full aspect-[4/3] bg-gradient-to-br ${blog.bg} rounded-sm mb-6 flex items-center justify-center overflow-hidden relative`}>
