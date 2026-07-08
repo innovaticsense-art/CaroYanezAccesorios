@@ -739,7 +739,7 @@ export default function LandingPage() {
               </li>
               <li className="flex items-start space-x-3 mt-6">
                 <MapPin size={16} className="mt-1 text-[#C8A45D]" />
-                <span>Taller privado en Santiago<br/><span className="text-xs text-gray-500">Solo envíos a domicilio</span></span>
+                <span>Taller privado en Bogotá<br/><span className="text-xs text-gray-500">Solo envíos a domicilio</span></span>
               </li>
             </ul>
           </div>
