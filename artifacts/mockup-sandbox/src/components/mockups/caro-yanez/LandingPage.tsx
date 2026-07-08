@@ -220,7 +220,7 @@ export default function LandingPage() {
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
             {[
               { name: "Aretes perla nacarada", price: "$8.900", badge: "Nuevo", img: "/__mockup/images/aretes-perla.jpg" },
-              { name: "Collar luna dorada", price: "$15.900", badge: "Más vendido", img: null },
+              { name: "Collar luna dorada", price: "$15.900", badge: "Más vendido", img: "/__mockup/images/collar-luna.jpg" },
               { name: "Pulsera doble eslabón", price: "$12.500", badge: "Hecho a mano", img: null },
               { name: "Set aretes y collar", price: "$24.900", badge: "Ideal para regalo", img: null },
               { name: "Prendedor flor tejida", price: "$9.500", badge: "Edición limitada", img: null },
