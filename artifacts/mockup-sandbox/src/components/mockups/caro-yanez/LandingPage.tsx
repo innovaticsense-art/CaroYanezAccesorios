@@ -603,7 +603,7 @@ export default function LandingPage() {
                 </div>
                 <div>
                   <p className="text-xs uppercase tracking-widest text-gray-500 mb-1" style={bodyFont}>Escribir por WhatsApp</p>
-                  <p className="font-bold text-lg" style={bodyFont}>+56 9 1234 5678</p>
+                  <p className="font-bold text-lg" style={bodyFont}>+57 320 2339052</p>
                 </div>
               </a>
               
@@ -613,7 +613,7 @@ export default function LandingPage() {
                 </div>
                 <div>
                   <p className="text-xs uppercase tracking-widest text-gray-500 mb-1" style={bodyFont}>Enviar Correo</p>
-                  <p className="font-bold text-lg" style={bodyFont}>hola@caroyanez.cl</p>
+                  <p className="font-bold text-lg" style={bodyFont}>yanezramirezcarolina@gmail.com</p>
                 </div>
               </a>
               
@@ -731,11 +731,11 @@ export default function LandingPage() {
             <ul className="space-y-4 text-sm text-gray-400" style={bodyFont}>
               <li className="flex items-start space-x-3">
                 <Phone size={16} className="mt-1 text-[#C8A45D]" />
-                <span>+56 9 1234 5678<br/><span className="text-xs text-gray-500">Lun a Vie: 10:00 - 19:00</span></span>
+                <span>+57 320 2339052<br/><span className="text-xs text-gray-500">Lun a Vie: 10:00 - 19:00</span></span>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail size={16} className="text-[#C8A45D]" />
-                <span>hola@caroyanez.cl</span>
+                <span>yanezramirezcarolina@gmail.com</span>
               </li>
               <li className="flex items-start space-x-3 mt-6">
                 <MapPin size={16} className="mt-1 text-[#C8A45D]" />
