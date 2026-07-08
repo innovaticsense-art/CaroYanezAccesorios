@@ -1,0 +1,341 @@
+Desarrolla una página web moderna, elegante y altamente comercial para **“CARO YAÑEZ ACCESORIOS”**, una tienda de accesorios para mujer especializada en aretes, collares, pulseras, prendedores y piezas artesanales con estilo femenino, delicado y sofisticado. La web debe funcionar como tienda, catálogo de marca y portafolio visual para aumentar ventas, generar confianza y facilitar pedidos por WhatsApp, redes sociales o carrito de compra.
+
+DISEÑO Y ESTÉTICA:
+
+* Estilo visual femenino, elegante, moderno y artesanal premium.
+* Paleta recomendada:
+
+  * Fondo principal: blanco cálido o marfil (#FFFDF8)
+  * Texto principal: negro suave (#1F1F1F)
+  * Color acento: rosa empolvado (#D9A7A7), dorado suave (#C8A45D) o terracota elegante (#B86B5E)
+  * Tonos secundarios: beige, nude, crema y gris cálido.
+* Tipografía:
+
+  * Títulos con serif elegante o tipografía fashion editorial.
+  * Textos con sans-serif limpia y legible.
+* Diseño limpio, delicado y visualmente aspiracional.
+* Uso amplio de espacios blancos para transmitir exclusividad.
+* Bordes suaves, sombras sutiles y detalles decorativos finos.
+* Microinteracciones en botones, tarjetas de producto, menú y galería.
+* Estética tipo boutique online, no marketplace genérico.
+
+HERO SECTION:
+
+* Diseño impactante y femenino.
+* Nombre grande de la marca: **CARO YAÑEZ ACCESORIOS**
+* Frase principal:
+  **“Accesorios que elevan tu estilo y cuentan tu historia”**
+* Subfrase:
+  **“Piezas femeninas, delicadas y únicas para acompañarte en cada ocasión.”**
+* Imagen principal con modelo usando accesorios o composición elegante de productos sobre fondo neutro.
+* Botón CTA principal:
+  **“Ver colección”**
+* Botón secundario:
+  **“Comprar por WhatsApp”**
+* Animación sutil de entrada en texto e imagen.
+* Scroll indicator delicado hacia la siguiente sección.
+* Elementos visuales suaves como brillos, detalles dorados o líneas finas decorativas.
+
+SECCIÓN DE COLECCIONES:
+
+* Presentar las principales categorías de productos:
+
+  * Aretes
+  * Collares
+  * Pulseras
+  * Prendedores
+  * Sets de regalo
+  * Ediciones especiales
+* Diseño en grid elegante con tarjetas visuales.
+* Cada categoría debe incluir:
+
+  * Imagen atractiva del producto
+  * Nombre de la colección
+  * Breve frase descriptiva
+  * Botón “Explorar”
+* Hover effect:
+
+  * Zoom suave en la imagen
+  * Overlay translúcido
+  * Aparición del botón de compra o exploración.
+* Priorizar visualmente las colecciones más fuertes con cards de mayor tamaño.
+
+PRODUCTOS DESTACADOS:
+
+* Grid tipo boutique con productos más vendidos o recomendados.
+* Cada producto debe mostrar:
+
+  * Imagen principal
+  * Nombre del producto
+  * Precio
+  * Categoría
+  * Disponibilidad
+  * Variantes si aplica: color, tamaño, material
+  * Botón “Agregar al carrito” o “Pedir por WhatsApp”
+* Incluir etiquetas comerciales:
+
+  * Nuevo
+  * Más vendido
+  * Hecho a mano
+  * Edición limitada
+  * Ideal para regalo
+* Hover effect:
+
+  * Cambio a segunda imagen del producto
+  * Zoom ligero
+  * Botón visible de compra rápida.
+* Diseño mobile-first para que el catálogo se vea perfecto en celulares.
+
+PÁGINA INDIVIDUAL DE PRODUCTO:
+
+* Imagen grande del accesorio con galería secundaria.
+* Zoom al pasar el mouse sobre la imagen.
+* Nombre del producto.
+* Precio destacado.
+* Descripción emocional y comercial.
+* Detalles técnicos:
+
+  * Materiales
+  * Color
+  * Medidas
+  * Peso aproximado
+  * Cuidados de la pieza
+  * Disponibilidad
+* Botón principal:
+  **“Comprar ahora”**
+* Botón alternativo:
+  **“Consultar por WhatsApp”**
+* Sección de confianza:
+
+  * Envíos disponibles
+  * Empaque especial
+  * Atención personalizada
+  * Cambios según política de la tienda
+* Productos relacionados debajo:
+  **“También te puede gustar”**
+
+SOBRE LA MARCA:
+
+* Sección cálida y cercana que cuente la historia de **CARO YAÑEZ ACCESORIOS**.
+* Layout dividido:
+
+  * Imagen de la creadora, taller, proceso creativo o productos a la izquierda.
+  * Texto de marca a la derecha.
+* Biografía de 3 a 4 párrafos sobre:
+
+  * Quién está detrás de la marca.
+  * Inspiración de las piezas.
+  * Filosofía de diseño.
+  * El valor de usar accesorios únicos.
+* Frase destacada:
+  **“Cada accesorio está pensado para resaltar tu esencia, tu feminidad y tu estilo personal.”**
+* Botón:
+  **“Conoce nuestra historia”**
+
+PROPUESTA DE VALOR:
+
+* Crear una sección clara con beneficios de compra:
+
+  1. Accesorios seleccionados con detalle
+  2. Diseños femeninos y versátiles
+  3. Atención personalizada
+  4. Empaque ideal para regalo
+  5. Compra fácil por WhatsApp o tienda online
+* Cada beneficio debe tener ícono delicado y descripción breve.
+* Diseño en cards limpias con estética premium.
+
+LOOKBOOK / INSPIRACIÓN:
+
+* Galería visual estilo editorial mostrando cómo combinar los accesorios.
+* Fotografías de:
+
+  * Accesorios en uso
+  * Combinaciones para looks casuales
+  * Looks elegantes
+  * Ideas para regalo
+  * Detalles macro de materiales y acabados.
+* Layout tipo masonry o bento grid.
+* Efecto hover con frases como:
+
+  * “Look de día”
+  * “Elegancia sutil”
+  * “Detalle protagonista”
+  * “Perfecto para regalar”
+* Incluir botón:
+  **“Inspírate con nuestros looks”**
+
+SECCIÓN DE REGALOS:
+
+* Crear una sección especial para impulsar compras emocionales.
+* Título:
+  **“Regalos que enamoran”**
+* Subtítulo:
+  **“Encuentra el detalle perfecto para sorprender a alguien especial.”**
+* Categorías:
+
+  * Regalos para cumpleaños
+  * Regalos para amigas
+  * Regalos para mamá
+  * Regalos románticos
+  * Sets personalizados
+* Incluir opción de empaque especial.
+* Botón:
+  **“Ver opciones de regalo”**
+
+TESTIMONIALES:
+
+* Slider minimalista con 3 a 5 testimonios de clientas.
+* Cada testimonio debe incluir:
+
+  * Frase de la clienta
+  * Nombre
+  * Ciudad si aplica
+  * Foto pequeña o inicial decorativa
+  * Calificación visual con estrellas
+* Diseño tipo card elegante con sombra suave.
+* Ejemplos de frases:
+
+  * “Los accesorios son hermosos y llegaron con un empaque precioso.”
+  * “Me encantó la atención, me ayudaron a elegir el regalo perfecto.”
+  * “Las piezas se ven delicadas, femeninas y muy bien elaboradas.”
+
+PROCESO DE COMPRA:
+
+* Explicar de forma sencilla cómo comprar:
+
+  1. Elige tus accesorios favoritos
+  2. Agrégalos al carrito o escríbenos por WhatsApp
+  3. Confirma disponibilidad y datos de envío
+  4. Realiza el pago
+  5. Recibe tu pedido
+* Diseño tipo timeline vertical u horizontal.
+* Incluir íconos delicados y textos breves.
+* CTA final:
+  **“Empieza tu compra”**
+
+CONTACTO Y WHATSAPP:
+
+* Sección destacada con fondo rosa empolvado, beige o dorado suave.
+* Headline:
+  **“¿Quieres asesoría para elegir tus accesorios?”**
+* Subheadline:
+  **“Estamos listas para ayudarte a encontrar la pieza perfecta para ti o para regalar.”**
+* Botones:
+
+  * “Escribir por WhatsApp”
+  * “Ver Instagram”
+  * “Enviar mensaje”
+* Formulario simple:
+
+  * Nombre
+  * Email
+  * Tipo de consulta
+  * Producto de interés
+  * Mensaje
+* Incluir tiempo estimado de respuesta.
+* Incluir enlaces a Instagram, TikTok, Facebook y WhatsApp.
+
+INSTAGRAM / REDES SOCIALES:
+
+* Integrar una sección visual con publicaciones recientes de Instagram.
+* Título:
+  **“Síguenos para descubrir nuevas piezas”**
+* Mostrar grid de imágenes tipo feed.
+* Botón:
+  **“Ver Instagram”**
+* Estética coherente con el resto de la web.
+
+BLOG O CONSEJOS DE ESTILO:
+
+* Sección opcional con artículos o tips:
+
+  * Cómo elegir accesorios según tu rostro
+  * Cómo combinar aretes y collares
+  * Accesorios ideales para looks de oficina
+  * Ideas de regalos para mujer
+  * Cuidados para conservar tus accesorios
+* Grid de 3 artículos.
+* Cada artículo debe incluir:
+
+  * Imagen
+  * Título
+  * Extracto breve
+  * Fecha
+  * Tiempo de lectura
+* Botón:
+  **“Ver más consejos”**
+
+FOOTER:
+
+* Diseño minimalista y elegante.
+* Incluir:
+
+  * Nombre de marca: CARO YAÑEZ ACCESORIOS
+  * Frase corta de marca
+  * Links rápidos:
+
+    * Inicio
+    * Colecciones
+    * Productos
+    * Sobre la marca
+    * Contacto
+    * Políticas de envío
+    * Cambios y devoluciones
+  * Redes sociales con íconos simples.
+  * WhatsApp y correo de contacto.
+  * Copyright con año dinámico.
+* Mensaje:
+  **“Accesorios femeninos para resaltar tu esencia.”**
+
+CARACTERÍSTICAS TÉCNICAS:
+
+* Página responsive y optimizada para mobile.
+* Navegación fija superior con logo, menú y botón de WhatsApp.
+* Menú hamburguesa animado en celular.
+* Smooth scroll entre secciones.
+* Animaciones suaves tipo fade in, slide up y zoom sutil.
+* Lazy loading para imágenes de productos.
+* Optimización SEO básica:
+
+  * Meta title
+  * Meta description
+  * Etiquetas alt en imágenes
+  * URLs limpias para productos y colecciones.
+* Botón flotante de WhatsApp visible en toda la navegación.
+* Carrito de compras funcional o modo catálogo con pedido por WhatsApp.
+* Filtros de productos por:
+
+  * Categoría
+  * Precio
+  * Color
+  * Material
+  * Disponibilidad
+  * Ideal para regalo
+* Buscador de productos.
+* Modo oscuro opcional, manteniendo estética elegante.
+* Loading screen sutil con el logo de la marca.
+* Microinteracciones en botones, cards, menú y formularios.
+* Optimización de velocidad para imágenes.
+
+MOBILE OPTIMIZATION:
+
+* Todo el contenido debe adaptarse verticalmente.
+* Productos en una columna o dos columnas según tamaño de pantalla.
+* Botones grandes y cómodos para tocar.
+* WhatsApp siempre visible.
+* Imágenes optimizadas para carga rápida.
+* Formularios simples y fáciles de completar.
+* Galerías swipeables.
+* Checkout o proceso de contacto simplificado.
+
+TONO DE MARCA:
+
+* Femenino
+* Cercano
+* Elegante
+* Inspirador
+* Artesanal
+* Confiable
+* Sofisticado sin sentirse lejano
+
+El diseño debe transmitir que **CARO YAÑEZ ACCESORIOS** no solo vende accesorios, sino piezas que complementan la personalidad, elevan el estilo y hacen sentir especial a cada mujer. La página debe verse como una boutique digital delicada, moderna y confiable, pensada para convertir visitantes en clientas.
