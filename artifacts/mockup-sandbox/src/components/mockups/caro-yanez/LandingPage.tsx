@@ -568,15 +568,22 @@ export default function LandingPage() {
           </a>
         </div>
         
-        <div className="flex flex-wrap md:grid md:grid-cols-6 w-full">
-          {[1, 2, 3, 4, 5, 6].map((i) => (
-            <div key={i} className="w-1/2 md:w-full aspect-square relative group overflow-hidden bg-gradient-to-br from-[#f8f5f0] to-[#eaddcc] flex items-center justify-center border border-white">
-              <Gem size={32} className="text-[#C8A45D]/20" />
-              <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
-                <Instagram size={32} className="text-white" />
+        <div className="flex justify-center">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-1 w-full max-w-4xl">
+            {[
+              "/__mockup/images/ig-1.jpg",
+              "/__mockup/images/ig-2.jpg",
+              "/__mockup/images/ig-3.jpg",
+              "/__mockup/images/ig-4.jpg",
+            ].map((src, i) => (
+              <div key={i} className="aspect-square relative group overflow-hidden">
+                <img src={src} alt={`Post ${i + 1}`} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                <div className="absolute inset-0 bg-black/30 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+                  <Instagram size={28} className="text-white" />
+                </div>
               </div>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
       </section>
 
