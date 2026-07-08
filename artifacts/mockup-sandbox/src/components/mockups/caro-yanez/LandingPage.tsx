@@ -526,14 +526,20 @@ export default function LandingPage() {
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { title: "Cómo elegir aretes según la forma de tu rostro", time: "3 min", bg: "from-[#f4ecec] to-[#e2d5c4]" },
-              { title: "Cómo combinar collar y aretes sin equivocarte", time: "4 min", bg: "from-[#f9f2eb] to-[#eadac5]" },
-              { title: "Accesorios ideales para looks de oficina", time: "5 min", bg: "from-[#f0ede5] to-[#d6cfb8]" }
+              { title: "Cómo elegir aretes según la forma de tu rostro", time: "3 min", bg: "from-[#f4ecec] to-[#e2d5c4]", img: "/__mockup/images/blog-aretes-rostro.jpg" },
+              { title: "Cómo combinar collar y aretes sin equivocarte", time: "4 min", bg: "from-[#f9f2eb] to-[#eadac5]", img: null },
+              { title: "Accesorios ideales para looks de oficina", time: "5 min", bg: "from-[#f0ede5] to-[#d6cfb8]", img: null }
             ].map((blog, idx) => (
               <div key={idx} className="group cursor-pointer">
                 <div className={`w-full aspect-[4/3] bg-gradient-to-br ${blog.bg} rounded-sm mb-6 flex items-center justify-center overflow-hidden relative`}>
-                  <div className="absolute inset-0 bg-black/5 group-hover:bg-black/0 transition-colors"></div>
-                  <Gem size={48} className="text-[#C8A45D]/30 transform group-hover:scale-110 transition-transform duration-500" />
+                  {blog.img ? (
+                    <img src={blog.img} alt={blog.title} className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                  ) : (
+                    <>
+                      <div className="absolute inset-0 bg-black/5 group-hover:bg-black/0 transition-colors"></div>
+                      <Gem size={48} className="text-[#C8A45D]/30 transform group-hover:scale-110 transition-transform duration-500" />
+                    </>
+                  )}
                 </div>
                 <div className="flex items-center space-x-4 mb-3">
                   <span className="text-[10px] uppercase tracking-widest text-[#D9A7A7] font-bold" style={bodyFont}>Guía</span>
