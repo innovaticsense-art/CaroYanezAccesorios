@@ -224,7 +224,7 @@ export default function LandingPage() {
               { name: "Pulsera doble eslabón", price: "$12.500", badge: "Hecho a mano", img: "/__mockup/images/pulsera-eslabon.jpg" },
               { name: "Set aretes y collar", price: "$24.900", badge: "Ideal para regalo", img: "/__mockup/images/set-aretes-collar.jpg" },
               { name: "Prendedor flor tejida", price: "$9.500", badge: "Edición limitada", img: "/__mockup/images/prendedor-flor.jpg" },
-              { name: "Aretes colgantes boho", price: "$7.900", badge: "Hecho a mano", img: null },
+              { name: "Aretes colgantes boho", price: "$7.900", badge: "Hecho a mano", img: "/__mockup/images/aretes-boho.jpg" },
               { name: "Collar choker elegante", price: "$13.900", badge: "Más vendido", img: null },
               { name: "Pulsera cristales rosas", price: "$11.500", badge: "Nuevo", img: null }
             ].map((prod, idx) => (
