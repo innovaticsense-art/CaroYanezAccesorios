@@ -622,8 +622,8 @@ export default function LandingPage() {
                   <MapPin size={24} />
                 </div>
                 <div>
-                  <p className="text-xs uppercase tracking-widest text-gray-500 mb-1" style={bodyFont}>Envíos a todo Chile</p>
-                  <p className="font-bold text-lg" style={bodyFont}>Desde Santiago</p>
+                  <p className="text-xs uppercase tracking-widest text-gray-500 mb-1" style={bodyFont}>Envíos a todo Colombia</p>
+                  <p className="font-bold text-lg" style={bodyFont}>Desde Bogotá</p>
                 </div>
               </div>
             </div>
