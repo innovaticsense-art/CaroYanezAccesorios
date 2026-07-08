@@ -527,7 +527,7 @@ export default function LandingPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               { title: "Cómo elegir aretes según la forma de tu rostro", time: "3 min", bg: "from-[#f4ecec] to-[#e2d5c4]", img: "/__mockup/images/blog-aretes-rostro.jpg" },
-              { title: "Cómo combinar collar y aretes sin equivocarte", time: "4 min", bg: "from-[#f9f2eb] to-[#eadac5]", img: null },
+              { title: "Cómo combinar collar y aretes sin equivocarte", time: "4 min", bg: "from-[#f9f2eb] to-[#eadac5]", img: "/__mockup/images/blog-combinar-collar.jpg" },
               { title: "Accesorios ideales para looks de oficina", time: "5 min", bg: "from-[#f0ede5] to-[#d6cfb8]", img: null }
             ].map((blog, idx) => (
               <div key={idx} className="group cursor-pointer">
