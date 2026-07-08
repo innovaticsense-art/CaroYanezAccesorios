@@ -226,7 +226,7 @@ export default function LandingPage() {
               { name: "Prendedor flor tejida", price: "$9.500", badge: "Edición limitada", img: "/__mockup/images/prendedor-flor.jpg" },
               { name: "Aretes colgantes boho", price: "$7.900", badge: "Hecho a mano", img: "/__mockup/images/aretes-boho.jpg" },
               { name: "Collar choker elegante", price: "$13.900", badge: "Más vendido", img: "/__mockup/images/collar-choker.jpg" },
-              { name: "Pulsera cristales rosas", price: "$11.500", badge: "Nuevo", img: null }
+              { name: "Pulsera cristales rosas", price: "$11.500", badge: "Nuevo", img: "/__mockup/images/pulsera-cristales.jpg" }
             ].map((prod, idx) => (
               <div key={idx} className="group flex flex-col">
                 <div className="relative aspect-[4/5] overflow-hidden mb-4 bg-gradient-to-br from-[#f8f5f0] to-[#e8ddd0] flex items-center justify-center">
